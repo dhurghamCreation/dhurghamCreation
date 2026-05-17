@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/dhurghamCreation/dhurghamCreation/actions" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=SECTOR%207%20ONLINE&fontSize=32&animation=twinkling&theme=tokyonight&desc=💥%20SCORE:%2014,520%20%7C%20👾%20MALWARE%20WAVES:%203/10%20%7C%20🛡️%20SHIELDS:%2085%25&descAlignV=55&descAlign=50" alt="Live Mainframe Interactive Interface" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=SECTOR%207%20ONLINE&fontSize=32&animation=twinkling&theme=tokyonight&desc=💥%20SCORE:%2014670%20%7C%20👾%20MALWARE%20WAVES:%203/10%20%7C%20🛡️%20SHIELDS:%2065%25" alt="Live Mainframe Interactive Interface" width="100%" />
   </a>
 </p>
 
