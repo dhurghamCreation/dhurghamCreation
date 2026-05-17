@@ -8,41 +8,24 @@
 ---
 
 ## 🕹️ Active Repository Minigame: Sector 7 Protocol
-**Recruiter Combat Challenge:** Click the glowing matrix controller badges below to register your tactical movements directly into the repository framework, execute code patches, and clear the bugs before they overwrite the mainframe!
+**Recruiter Combat Challenge:** Click the tactical controller buttons below to execute real-time code patches directly into the repository framework and eliminate mainframe anomalies!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=16&color=00E5FF&background=0D1117&width=720&height=340&lines=%2B-----------------------------------------------------------------------%2B%0D%7C+%5BSTAGE+03%3A+MAINFRAME+BREACH%5D+++++++++++++++++++SCORE%3A+014%2C520++++++++++%7C%0D%7C+%5BBOSS+INTEGRITY%5D%3A+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%92+%E2%96%92+%E2%96%92++70%25+++++HIGH%3A++99%2C999+++++++++++%7C%0D%2B-----------------------------------------------------------------------%2B%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++%F0%9F%9B%B8+%5BCRITICAL_BUG_V2%5D+++++%F0%9F%9B%B8+%5BCVE_EXPLOIT%5D+++++%F0%9F%9B%B8+%5BSTACK_OVERFLOW%5D+%7C%0D%7C+++++++++++%2F+%5C+++++++++++++++++++++++%2F+%5C+++++++++++++++++%2F+%5C+++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++*+.++++++++++++++.++++++++++++++.+++++++++++*+.+++*+%7C%0D%7C+++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++%7C%0D%7C++.++++++++.++++++++.++++++++++++++.++++++++.++++++++.++++++++++++++.++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++%F0%9F%94%A5++%5BLASER_BURST%5D+++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++%E2%96%B2+++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++++_%2F%5B%E2%96%A0%5D%2F_++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++%2F_%2F%E2%95%91%E2%96%88%E2%95%91%5C_%5C+++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++%E2%9A%A1++%F0%9F%9A%80++%E2%9A%A1+++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++%5BDEFENDER_V1%5D++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%2B-----------------------------------------------------------------------%2B%0D%7C+SYSTEM+STATUS%3A+DEFENSIVE+PAYLOAD+DEPLOYED+%2F%2F+COMPILING+FIXES...+++++++++%7C%0D%2B-----------------------------------------------------------------------%2B;EXECUTING+TACTICAL_MOVE_LEFT...;SHIPS_ENGINES_ENGAGED...;LASER_BURST_FIRED!_DESTROYING_BUGS...;CRITICAL_HIT_REGISTERED_ON_MAIN_CORE...;EXECUTING+TACTICAL_MOVE_RIGHT...;UPDATING_REPOSITORY_FRAMEWORK_STATE..." alt="Sector 7 Interface Protocol" />
+</p>
 
-+-------------------------------------------------------------------------+
-|  [STAGE 03: MAINFRAME BREACH]                   SCORE: 014,520          |
-|  [BOSS INTEGRITY]: █ █ █ █ █ █ █ ░ ░ ░  70%     HIGH:  99,999           |
-+-------------------------------------------------------------------------+
-|                                                                         |
-|         🛸 [CRITICAL_BUG_V2]     🛸 [CVE_EXPLOIT]     🛸 [STACK_OVERFLOW] |
-|           / \                       / \                 / \             |
-|                                                                         |
-|     * .              .              .           * .   * |
-|               👾              👾              👾              👾        |
-|  .        .        .              .        .        .              .    |
-|                                                                         |
-|                        ¦  🔥  [LASER_BURST]                             |
-|                        ¦                                                |
-|                        ¦                                                |
-|                                                                         |
-|                                 ▲                                       |
-|                              _/[■]\_                                    |
-|                             /_/║█║\_\                                   |
-|                            ⚡  🚀  ⚡                                   |
-|                            [DEFENDER_V1]                                |
-|                                                                         |
-+-------------------------------------------------------------------------+
-| SYSTEM STATUS: DEFENSIVE PAYLOAD DEPLOYED // COMPILING FIXES...         |
-+-------------------------------------------------------------------------+
-
-
-
-         <p align="left">
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=🎮+Player+Action:+Move+Left&body=Click+'Submit+new+issue'+to+move+your+ship+left!" target="_blank"><img src="https://img.shields.io/badge/🕹️_CLICK_TO_MOVE_LEFT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Left"/></a>
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=🔥+Player+Action:+Fire+Laser&body=Click+'Submit+new+issue'+to+fire+at+the+bugs!" target="_blank"><img src="https://img.shields.io/badge/🔥_CLICK_TO_FIRE_LASER-FF3366?style=for-the-badge&logo=target&logoColor=white" alt="Fire"/></a>
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=🎮+Player+Action:+Move+Right&body=Click+'Submit+new+issue'+to+move+your+ship+right!" target="_blank"><img src="https://img.shields.io/badge/🕹️_CLICK_TO_MOVE_RIGHT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Right"/></a>
+<p align="center">
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%8E%AE+Player+Action%3A+Move+Left&body=Click+%27Submit+new+issue%27+to+register+tactical+movement+left+on+the+main+grid%21" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_MOVE_LEFT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Left Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%94%A5+Player+Action%3A+Fire+Laser&body=Click+%27Submit+new+issue%27+to+fire+laser+bursts+at+the+active+CVEs%21" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5_FIRE_LASER-FF3366?style=for-the-badge&logo=target&logoColor=white" alt="Fire Laser Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%8E%AE+Player+Action%3A+Move+Right&body=Click+%27Submit+new+issue%27+to+register+tactical+movement+right+on+the+main+grid%21" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_MOVE_RIGHT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Right Badge" />
+  </a>
 </p>
 
 ---
