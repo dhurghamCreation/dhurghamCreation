@@ -10,7 +10,7 @@
 ## 🕹️ Active Repository Minigame: Sector 7 Protocol
 **Recruiter Combat Challenge:** Click the glowing matrix controller badges below to register your tactical movements directly into the repository framework, execute code patches, and clear the bugs before they overwrite the mainframe!
 
-```text
+
 +-------------------------------------------------------------------------+
 |  [STAGE 03: MAINFRAME BREACH]                   SCORE: 014,520          |
 |  [BOSS INTEGRITY]: █ █ █ █ █ █ █ ░ ░ ░  70%     HIGH:  99,999           |
@@ -36,7 +36,7 @@
 +-------------------------------------------------------------------------+
 | SYSTEM STATUS: DEFENSIVE PAYLOAD DEPLOYED // COMPILING FIXES...         |
 +-------------------------------------------------------------------------+
-```text
+
 
 
          <p align="left">
