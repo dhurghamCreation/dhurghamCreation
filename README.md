@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Technical Core Competencies
+## Technical Core Competencies
 
 <table width="100%">
   <tr>
