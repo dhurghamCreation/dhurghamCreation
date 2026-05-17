@@ -8,23 +8,25 @@
 ---
 
 ## 🕹️ Active Repository Minigame: Sector 7 Protocol
-**Recruiter Combat Challenge:** Click the tactical controller buttons below to execute real-time code patches directly into the repository framework and eliminate mainframe anomalies!
+**Recruiter Combat Challenge:** Click the tactical console controllers below to fire automated subroutines, slide the main payload array, and destroy incoming cybersecurity vulnerabilities in real-time!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=16&color=00E5FF&background=0D1117&width=720&height=340&lines=%2B-----------------------------------------------------------------------%2B%0D%7C+%5BSTAGE+03%3A+MAINFRAME+BREACH%5D+++++++++++++++++++SCORE%3A+014%2C520++++++++++%7C%0D%7C+%5BBOSS+INTEGRITY%5D%3A+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%92+%E2%96%92+%E2%96%92++70%25+++++HIGH%3A++99%2C999+++++++++++%7C%0D%2B-----------------------------------------------------------------------%2B%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++%F0%9F%9B%B8+%5BCRITICAL_BUG_V2%5D+++++%F0%9F%9B%B8+%5BCVE_EXPLOIT%5D+++++%F0%9F%9B%B8+%5BSTACK_OVERFLOW%5D+%7C%0D%7C+++++++++++%2F+%5C+++++++++++++++++++++++%2F+%5C+++++++++++++++++%2F+%5C+++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++*+.++++++++++++++.++++++++++++++.+++++++++++*+.+++*+%7C%0D%7C+++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++++++++%F0%9F%91%BE++++++++%7C%0D%7C++.++++++++.++++++++.++++++++++++++.++++++++.++++++++.++++++++++++++.++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++%F0%9F%94%A5++%5BLASER_BURST%5D+++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++%C2%A6++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++%E2%96%B2+++++++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++++_%2F%5B%E2%96%A0%5D%2F_++++++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++%2F_%2F%E2%95%91%E2%96%88%E2%95%91%5C_%5C+++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++%E2%9A%A1++%F0%9F%9A%80++%E2%9A%A1+++++++++++++++++++++++++++++++++++%7C%0D%7C++++++++++++++++++++++++++++%5BDEFENDER_V1%5D++++++++++++++++++++++++++++++++%7C%0D%7C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%7C%0D%2B-----------------------------------------------------------------------%2B%0D%7C+SYSTEM+STATUS%3A+DEFENSIVE+PAYLOAD+DEPLOYED+%2F%2F+COMPILING+FIXES...+++++++++%7C%0D%2B-----------------------------------------------------------------------%2B;EXECUTING+TACTICAL_MOVE_LEFT...;SHIPS_ENGINES_ENGAGED...;LASER_BURST_FIRED!_DESTROYING_BUGS...;CRITICAL_HIT_REGISTERED_ON_MAIN_CORE...;EXECUTING+TACTICAL_MOVE_RIGHT...;UPDATING_REPOSITORY_FRAMEWORK_STATE..." alt="Sector 7 Interface Protocol" />
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/actions" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=SECTOR%207%20ONLINE&fontSize=32&animation=twinkling&theme=tokyonight&desc=💥%20SCORE:%2014,520%20%7C%20👾%20MALWARE%20WAVES:%203/10%20%7C%20🛡️%20SHIELDS:%2085%25&descAlignV=55&descAlign=50" alt="Live Mainframe Interactive Interface" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%8E%AE+Player+Action%3A+Move+Left&body=Click+%27Submit+new+issue%27+to+register+tactical+movement+left+on+the+main+grid%21" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_MOVE_LEFT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Left Badge" />
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=👾+ACTION:+MOVE+LEFT&body=Click+%27Submit+new+issue%27+to+re-route+the+shield+generator+array+left!" target="_blank">
+    <img src="https://img.shields.io/badge/🕹️_PILOT__LEFT-00E5FF?style=for-the-badge&logo=retroarch&logoColor=black" alt="Pilot Ship Left Control Unit" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%94%A5+Player+Action%3A+Fire+Laser&body=Click+%27Submit+new+issue%27+to+fire+laser+bursts+at+the+active+CVEs%21" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5_FIRE_LASER-FF3366?style=for-the-badge&logo=target&logoColor=white" alt="Fire Laser Badge" />
+  &nbsp;
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=💥+ACTION:+FIRE+WEAPONS&body=Click+%27Submit+new+issue%27+to+deploy+the+anti-malware+laser+burst!" target="_blank">
+    <img src="https://img.shields.io/badge/🔥_FIRE__LASERS-FF3366?style=for-the-badge&logo=roots&logoColor=white" alt="Fire Defensive Matrix Laser Unit" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=%F0%9F%8E%AE+Player+Action%3A+Move+Right&body=Click+%27Submit+new+issue%27+to+register+tactical+movement+right+on+the+main+grid%21" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_MOVE_RIGHT-00E5FF?style=for-the-badge&logo=gamepad&logoColor=white" alt="Move Right Badge" />
+  &nbsp;
+  <a href="https://github.com/dhurghamCreation/dhurghamCreation/issues/new?title=👾+ACTION:+MOVE+RIGHT&body=Click+%27Submit+new+issue%27+to+re-route+the+shield+generator+array+right!" target="_blank">
+    <img src="https://img.shields.io/badge/🕹️_PILOT__RIGHT-00E5FF?style=for-the-badge&logo=retroarch&logoColor=black" alt="Pilot Ship Right Control Unit" />
   </a>
 </p>
 
