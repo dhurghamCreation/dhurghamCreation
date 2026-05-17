@@ -7,16 +7,35 @@
 
 ---
 
-## 🎮 Play a Minigame: GitHub Octocat Shooter!
-**How to play:** Click any of the glowing controller badges below! Clicking them will open a new GitHub link that lets you instantly submit your player action directly into your profile system framework to score points!
+## 🕹️ Active Repository Minigame: Sector 7 Protocol
+**Recruiter Combat Challenge:** Click the glowing matrix controller badges below to register your tactical movements directly into the repository framework, execute code patches, and clear the bugs before they overwrite the mainframe!
 
-/\_/\   ⚡  [== SUSTAINED ERROR DETECTED ==]
- ( o.o )  👾   Score: 1250 | High Score: 9800
-  > ^ <   ⚡   ⚙️  System Status: Deploying fixes...
-
-   [👾]          [👾]                 [👾]
-                             [👾]
-         🚀  <-- (You)
+```text
++-------------------------------------------------------------------------+
+|  [STAGE 03: MAINFRAME BREACH]                   SCORE: 014,520          |
+|  [BOSS INTEGRITY]: █ █ █ █ █ █ █ ░ ░ ░  70%     HIGH:  99,999           |
++-------------------------------------------------------------------------+
+|                                                                         |
+|         🛸 [CRITICAL_BUG_V2]     🛸 [CVE_EXPLOIT]     🛸 [STACK_OVERFLOW] |
+|           / \                       / \                 / \             |
+|                                                                         |
+|     * .              .              .           * .   * |
+|               👾              👾              👾              👾        |
+|  .        .        .              .        .        .              .    |
+|                                                                         |
+|                        ¦  🔥  [LASER_BURST]                             |
+|                        ¦                                                |
+|                        ¦                                                |
+|                                                                         |
+|                                 ▲                                       |
+|                              _/[■]\_                                    |
+|                             /_/║█║\_\                                   |
+|                            ⚡  🚀  ⚡                                   |
+|                            [DEFENDER_V1]                                |
+|                                                                         |
++-------------------------------------------------------------------------+
+| SYSTEM STATUS: DEFENSIVE PAYLOAD DEPLOYED // COMPILING FIXES...         |
++-------------------------------------------------------------------------+
 
 
          <p align="left">
